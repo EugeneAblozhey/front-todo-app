@@ -1,1 +1,1 @@
-https://jsdenis.github.io/Tutorials-app-front/
+https://eugeneablozhey.github.io/front-todo-app/
